@@ -10,7 +10,7 @@ export const client = createClient({
   dataset: 'production',
   useCdn: true, // Use the Content Delivery Network (CDN) for faster data retrieval
   apiVersion: '2023-08-07',
-  token: import.meta.env.VITE_SECRET,
+  token: 'skxE4l76ceABuFr64J9sksgPsm9AWyIk6UJ34j5NMjc15PNTC09O7eQOnbH7wX0jtDOmFflDLriFktZEjn8WnnrNotvVbRbsIfTCyc0nxbWk0EPofKgdVrMX9B4s94Nc7uTkB1LLCjkrdy8L6XWasRrI2WI8hqBqEzMU0No1Ix8gyz2F0TgX',
 //   ignoreBrowserTokenWarning: true,
 });
 
