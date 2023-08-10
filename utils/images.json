@@ -1,0 +1,41 @@
+ {
+    "images":  [
+        {
+            "id": 1,
+            "src": "./assets/earphones_a_1.webp"
+        },
+        {
+            "id": 2,
+            "src": "./assets/earphones_a_1.webp"
+        },
+        {
+            "id": 3,
+            "src": "./assets/earphones_a_1.webp"
+        },
+        {
+            "id": 4,
+            "src": "./assets/earphones_a_1.webp"
+        },
+        {
+            "id": 5,
+            "src": "./assets/earphones_a_1.webp"
+        },
+        {
+            "id": 6,
+            "src": "./assets/earphones_a_1.webp"
+        },
+        {
+            "id": 7,
+            "src": "./assets/earphones_a_1.webp"
+        },
+        {
+            "id": 8,
+            "src": "./assets/earphones_a_1.webp"
+        },
+        {
+            "id": 9,
+            "src": "./assets/earphones_a_1.webp"
+        }
+        
+    ]
+ }
