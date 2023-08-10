@@ -6,7 +6,7 @@ import imageUrlBuilder from '@sanity/image-url'
 // const token = process.env.PROJECT_TOKEN;
 
 export const client = createClient({
-  projectId: import.meta.env.VITE_ID,
+  projectId: 'po9mmnnw',
   dataset: 'production',
   useCdn: true, // Use the Content Delivery Network (CDN) for faster data retrieval
   apiVersion: '2023-08-07',
